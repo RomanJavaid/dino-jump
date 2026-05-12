@@ -10,4 +10,6 @@
 ---
 
 # Note
+Check releases section to download apk.
 This is a prototype project and is not fully developed.
+
